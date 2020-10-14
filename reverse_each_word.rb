@@ -8,4 +8,4 @@ def reverse_each_word(string)
   return reverse_string
 end
 
-reverse_word("Hello there, and how are you?")
+reverse_each_word("Hello there, and how are you?")
